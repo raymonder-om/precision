@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61", "cython", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "precision"
+version = "0.0.1"
+description = "Precision modules"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [{name = "Raymond Er", email = "raymonder@openmindsresources.com"}]
+license = "LicenseRef-Proprietary"
+license-files = ["AUTHORS.md"]
+dependencies = []
