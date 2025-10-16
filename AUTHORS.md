@@ -1,1 +1,0 @@
-This is a proprietary software licensed under the OpenMinds Resources EULA. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential.
